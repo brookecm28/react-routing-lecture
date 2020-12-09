@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import albums from '../data.json'
 import './style.css'
 
 class SingleAlbum extends Component {
